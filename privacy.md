@@ -24,7 +24,7 @@ As long as your account exists, then deleted within 30 days after your request.
 Access, rectification, deletion, opposition, portability: write to <your-email>. You can also contact the CNIL (cnil.fr).
 
 ## Deletion
-See the [Data Deletion](data-deletion) page.
+See the [Data Deletion](data-deletion.md) page.
 
 ## Minimum Age
 The app is reserved for adults.
