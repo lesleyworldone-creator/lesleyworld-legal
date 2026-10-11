@@ -2,7 +2,7 @@
 
 To delete your account and all your data:
 
-1. From the app: <button path, if it exists>, or 2. Send an email to <your-email> with the subject "Account Deletion", from the address linked to your account (or by indicating your username).
+Send an email to lesleyworld@outlook.fr with the subject "Account Deletion", from the address linked to your account (or by indicating your username).
 
 Deleted within 30 days: account, username, email, location, notification token, associated images.
 
